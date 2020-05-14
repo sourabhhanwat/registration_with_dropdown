@@ -1,4 +1,4 @@
-# flutterdropdowndemo
+# flutter_drop_down_demo
 
 A new Flutter application.
 
